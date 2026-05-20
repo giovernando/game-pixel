@@ -9,7 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@rolldown/plugin-babel": "latest",
     "@vercel/analytics": "1.5.0",
     "@vitejs/devtools": "latest",
     "babel-plugin-react-compiler": "latest",
