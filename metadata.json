@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Sprite Walker",
+  "description": "A React + Canvas 2D character controller that animates a sprite sheet based on arrow key inputs.",
+  "requestFramePermissions": []
+}
