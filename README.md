@@ -2,7 +2,7 @@
 
 A pixel-art based game built with React, TypeScript, and Vite. Battle enemies and guide your character through exciting pixel adventures!
 
-## 📋 Overview
+## Overview
 
 Pixel Sprite Walker adalah aplikasi game interaktif yang menampilkan:
 - **Character Selection** - Pilih karakter untuk memulai petualangan
