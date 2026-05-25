@@ -10,7 +10,7 @@ Pixel Sprite Walker adalah aplikasi game interaktif yang menampilkan:
 - **Battle System** - Lawan zombies dan skeletons dengan attack animations
 - **Pixel Art Graphics** - Grafis pixel yang retro dan menarik
 
-## 🚀 Quick Start
+# Quick Start
 
 ### Prerequisites
 - **Node.js** (v18 atau lebih tinggi)
