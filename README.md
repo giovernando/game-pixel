@@ -38,7 +38,7 @@ pnpm dev
 http://localhost:3000
 ```
 
-## 📦 Build & Deploy
+# Build & Deploy
 
 ### Development
 ```bash
