@@ -58,7 +58,7 @@ pnpm preview
 ```
 Preview hasil build sebelum deploy.
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 game-pixel/
