@@ -91,7 +91,7 @@ game-pixel/
 └── postcss.config.mjs          # PostCSS configuration
 ```
 
-## 🎨 Components
+## Components
 
 ### CharacterSelection
 Komponen untuk pemilihan karakter sebelum memulai game.
