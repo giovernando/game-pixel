@@ -111,7 +111,7 @@ Panel informasi yang menampilkan:
 - Informasi pertempuran
 - Data permainan lainnya
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend Framework**: React 19.2.0
 - **Language**: TypeScript 5.8.2
